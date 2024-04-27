@@ -9,10 +9,10 @@
 <p align="center">
  
 <a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/-facebook-20232a?&logo=facebook&logoColor=20232a&labelColor=58a6ff" alt="Facebook" /></a> 
+<img src="https://img.shields.io/badge/-facebook-20232a?&logo=facebook&logoColor=20232a&labelColor=58a6ff" alt="Facebook"/></a> 
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/-linkedin-20232a?&logo=linkedin&logoColor=20232a&labelColor=58a6ff" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/-linkedin-20232a?&logo=linkedin&logoColor=20232a&labelColor=58a6ff" alt="LinkedIn"/in/ubaid-ullah-244aa9300/></a>
  
 </p>
 
